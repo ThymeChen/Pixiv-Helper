@@ -1,0 +1,7 @@
+{
+  "main": "cn.thymechen.xiaoming.plugin.PixivHelper",
+  "name": "Pixiv-Helper",
+  "alias": "Pixiv-Helper",
+  "author": "ThymeChen",
+  "version": "1.0-SNAPSHOT"
+}
